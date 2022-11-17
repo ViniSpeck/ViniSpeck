@@ -8,7 +8,7 @@
 - Anything Data Science related
 - Cloud Architecture
 - Overwatch 2
-- Music (mostly rock/metal)
+- Music
 
 ## 📅 Hobbies
 - Going to the gym
