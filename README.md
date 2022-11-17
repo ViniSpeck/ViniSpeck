@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vinícius</h1>
+<h3 align="center">A data engineer from Brazil</h3>
 
-<!--
-**ViniSpeck/ViniSpeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Big Data
+- Data Processing
+- Deep Learning and Machine Learning
+- Anything Data Science related
+- Cloud Architecture
+- Overwatch 2
+- Music (mostly rock/metal)
 
-Here are some ideas to get you started:
+## 📅 Hobbies
+- Going to the gym
+- Playing soccer/football
+- Gaming
+- Making/listening to music
+- Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning
+- Any musical instrument I can get my hands on
+- Trading strategies @ r/algotrading/
+- Data Science techniques @ DataScienceAcademy
+
+## 🎵 Spotify status
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173638249&unique={true|1|on|yes})
