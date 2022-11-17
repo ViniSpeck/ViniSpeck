@@ -19,7 +19,7 @@
 
 ## 📚 Learning
 - Any musical instrument I can get my hands on
-- Trading strategies @ r/algotrading/
+- Trading strategies @ r/algotrading
 - Data Science techniques @ DataScienceAcademy
 
 ## 🎵 Spotify status
