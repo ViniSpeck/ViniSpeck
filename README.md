@@ -7,12 +7,11 @@
 - Deep Learning and Machine Learning
 - Anything Data Science related
 - Cloud Architecture
-- Overwatch 2
 - Music
 
 ## 📅 Hobbies
 - Going to the gym
-- Playing soccer/football
+- Playing football
 - Gaming
 - Making/listening to music
 - Trading
@@ -20,7 +19,7 @@
 ## 📚 Learning
 - Any musical instrument I can get my hands on
 - Trading strategies @ r/algotrading
-- Data Science techniques @ DataScienceAcademy
+- AI stuff
 
 ## 🎵 Spotify status
 
