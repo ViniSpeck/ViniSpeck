@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">A data engineer/scientist from Brazil</h3>
+<h3 align="center">A data engineer from Brazil</h3>
 
-## 💬 Ask me about
+## 💬 Let's discuss
 - Big Data
 - Data Processing
 - Deep Learning and Machine Learning
-- Anything Data Science related
 - Cloud Architecture
 - Music
 
@@ -18,8 +17,9 @@
 
 ## 📚 Learning
 - Any musical instrument I can get my hands on
-- Trading strategies @ r/algotrading
+- Stock exchange strategies
 - AI stuff
+- Keeping up with new big data trends
 
 ## 🎵 Spotify status
 
