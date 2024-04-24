@@ -1,29 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
 <h3 align="center">A data engineer from Brazil</h3>
 
-## 🗂 Portifolio Project
+## 🗂 Portifolio Projects
 
-<h3><a href="https://github.com/ViniSpeck/WiseDeal">WiseDeal</a></h3>
+<h3><a href="https://github.com/ViniSpeck/DataPlatform">Open Source Data Platform</a></h3>
+
+<h3><a href="https://github.com/ViniSpeck/WiseDeal">WiseDeal (Web Application)</a></h3>
 
 ## 💬 Let's discuss
 - Big Data
 - Data Processing
-- Deep Learning and Machine Learning
-- Cloud Architecture
+- Data Architecture
 - Music
 
 ## 📅 Hobbies
 - Going to the gym
 - Playing football
 - Gaming
-- Making/listening to music
-- Trading
-
-## 📚 Learning
-- Any musical instrument I can get my hands on
-- Stock exchange strategies
-- AI stuff
-- Keeping up with new big data trends
+- Studying
 
 ## 🎵 Spotify Status
 
