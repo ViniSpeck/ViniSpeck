@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">A data engineer from Brazil</h3>
+<h3 align="center">Data Engineer from Brazil</h3>
 
 ## 🗂 Portifolio Projects
 
