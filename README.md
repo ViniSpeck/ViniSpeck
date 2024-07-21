@@ -3,7 +3,7 @@
 
 ## 🗂 Portifolio Projects
 
-<h3><a href="https://github.com/ViniSpeck/DataPlatform">Open Source Integration Data Platform</a></h3>
+<h3><a href="https://github.com/ViniSpeck/DataPlatform">Open Source Data Integration Platform</a></h3>
 
 <h3><a href="https://github.com/ViniSpeck/WiseDeal">WiseDeal (Web Application)</a></h3>
 
